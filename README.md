@@ -62,12 +62,16 @@ Studied **order frequency, popular cuisines, and customer preferences** to suppo
 ## Restaurant Sales Analysis
 ** Home **
 <img width="1362" height="723" alt="Home" src="https://github.com/user-attachments/assets/8d930a7e-f599-4e14-a768-d17fc32e366c" />
+
 ** Dinnig **
 <img width="1407" height="738" alt="Dinning" src="https://github.com/user-attachments/assets/55c02aea-20b1-4170-8177-661e3c6b938f" />
+
 ** Hospitality **
 <img width="1427" height="762" alt="Hospitality" src="https://github.com/user-attachments/assets/263926d3-420f-46ad-b7dc-258525a82a34" />
+
 ** Behavior **
 <img width="1416" height="740" alt="Behaviour" src="https://github.com/user-attachments/assets/71656f90-a4b0-48f9-b363-a2ed7587d14d" />
+
 ** Review **
 <img width="1368" height="741" alt="Review" src="https://github.com/user-attachments/assets/f75f63d2-aa78-4d45-8a55-ebf51e66000f" />
 
