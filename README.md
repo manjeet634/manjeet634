@@ -51,6 +51,11 @@ Studied **order frequency, popular cuisines, and customer preferences** to suppo
 * Project Management – SkillUp
 
 ---
+## Shop Sales Analysis
+<img width="1390" height="755" alt="Shop Sales Analysis" src="https://github.com/user-attachments/assets/b7d4d252-1955-4d58-a780-7b3e5ceae5dc" />
+## Coffee Sales Analysis 
+
+
 
 ## 🔹 Let’s Connect
 
